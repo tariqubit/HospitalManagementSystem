@@ -1,2 +1,2 @@
 # HospitalManagementSystem
- A simple winforms application using Dissconeected approach and SQL Server as a Database.
+ A simple winforms application using Dissconnected approach and SQL Server as a Database.
